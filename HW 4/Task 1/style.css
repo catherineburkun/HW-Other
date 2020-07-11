@@ -1,0 +1,44 @@
+header {
+  width: 759px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #a52a2a;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+article {
+  width: 759px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sunset-cont {
+  width: 759px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+  color: #7655ff;
+}
+
+.img-car {
+  display: flex;
+  justify-content: center;
+}
+.cars {
+  border-style: dashed;
+  margin: 2px;
+}
+footer {
+  width: 759px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
