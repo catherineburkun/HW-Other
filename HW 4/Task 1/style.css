@@ -4,6 +4,7 @@ header {
   margin-right: auto;
   background-color: #a52a2a;
 }
+
 h1 {
   text-align: center;
   color: white;
@@ -29,10 +30,12 @@ span {
   display: flex;
   justify-content: center;
 }
+
 .cars {
   border-style: dashed;
   margin: 2px;
 }
+
 footer {
   width: 759px;
   margin-left: auto;
