@@ -72,6 +72,7 @@ nav li {
 .center-text {
   width: 520px;
   color: white;
+  font-size: 18px;
 }
 
 aside {
@@ -110,4 +111,5 @@ footer {
   color: white;
   text-align: center;
   margin: auto;
+  font-size: 20px;
 }

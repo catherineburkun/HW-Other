@@ -14,6 +14,7 @@ article {
   width: 759px;
   margin-left: auto;
   margin-right: auto;
+  font-size: 18px;
 }
 
 .sunset-cont {
@@ -44,4 +45,5 @@ footer {
   background-color: black;
   text-align: center;
   color: white;
+  font-size: 20px;
 }
