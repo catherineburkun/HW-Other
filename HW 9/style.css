@@ -1,0 +1,17 @@
+#wrap {
+  width: 60%;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 70%;
+  opacity: 0.7;
+}
+
+#quote {
+}

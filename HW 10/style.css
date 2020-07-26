@@ -1,0 +1,117 @@
+.header--background {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url(img/header-background.png);
+  padding-top: 2%;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.logo-header {
+  width: 55%;
+  text-align: left;
+  padding-left: 120px;
+  padding-top: 10px;
+}
+
+.logo-header__logo {
+  max-width: 100%;
+}
+
+.nav-header__nav {
+  width: 45%;
+  padding-right: 120px;
+}
+
+.nav__list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__item {
+  max-width: 12%;
+  margin: 20px 15px;
+  padding: 0;
+  text-align: center;
+  padding-inline-start: 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 80%;
+  font-weight: 700;
+}
+
+.nav__item:hover {
+  border-top: #ff6033 3px solid;
+}
+
+.item_link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.text-block-header {
+  max-width: 30%;
+  font-family: 'Raleway', sans-serif;
+  padding: 200px 120px 400px;
+}
+
+.text-block-header__title-header {
+  font-size: 50px;
+  font-weight: 900;
+  margin: 20px 0;
+}
+
+.text-block-header__text-header {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.text-block-header__button-under {
+  background-color: #ff6033;
+  border-style: none;
+  padding: 12px 18px;
+  margin-top: 20px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+  box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.5);
+  outline: none;
+}
+
+.main {
+  width: 100%;
+  background-color: #00b4b4;
+  /* position: relative; */
+  display: flex;
+  padding: 70px 50px 50px 70px;
+}
+
+.main__background-main {
+  max-width: 50%;
+  /* position: absolute; */
+}
+.text-block-header--text-block-without-button {
+  max-width: 30%;
+  font-family: 'Raleway', sans-serif;
+  padding: 150px 120px 100px;
+  color: white;
+  text-align: right;
+}
+
+.text-block-header--text-block-without-button__title-main--bigger {
+  font-size: 70px;
+  font-weight: 700;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.text-block-header--text-block-without-button__text-main {
+  text-align: left;
+  font-size: 17px;
+}
